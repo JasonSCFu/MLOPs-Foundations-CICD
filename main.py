@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 """
-Main cli or app entry point
+Main cli or app entry point, testing git command
 """
 
 from mylib.calculator import add
