@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 """
-Main cli or app entry point, add TODO
+Main cli or app entry point
 """
 
 from mylib.calculator import add
